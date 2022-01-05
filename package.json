@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A simple input built with react",
   "main": "./lib/InputAmount.js",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/dmitrii602/react-input-do"
+  },
   "keywords": [
     "react",
     "input"
@@ -12,6 +16,9 @@
     "build": "webpack"
   },
   "author": "Dmytro Okhrimenko",
+  "bugs": {
+    "url": "https://github.com/dmitrii602/react-input-do"
+  },
   "peerDependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
