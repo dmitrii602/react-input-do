@@ -1,0 +1,8 @@
+{
+    "presets": [
+            "react",
+            "react-bootstrap",
+            "env",
+            "stage-0"
+    ]
+}
